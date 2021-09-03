@@ -3,7 +3,7 @@
 <h3> 👨🏻‍💻 |&nbsp;About me</h3>
 
 - 🎇 Explorando novas tecnologias todos os dias...
-- 💼 Atualmente estou trabalhando em [StrawCPN](http://straw.cc/)
+- 💼 Atualmente estou trabalhando em [HK5gg](https://twitter.com/HK5gg)
 - 🌱 Aprendendo mais sobre C, C++, Ruby.
 - ✍️ Colaborando em vários projetos de desenvolvimento de jogos.
 
