@@ -2,9 +2,8 @@
 
 <h3> 👨🏻‍💻 |&nbsp;About me</h3>
 
-- 🎇 Explorando novas tecnologias todos os dias...
-- 💼 Atualmente estou trabalhando em [F/A](https)
-- 🌱 Aprendendo mais sobre C, C++, Ruby.
+- 🎇 Desenvolvedor Full-Stack & UI/UX Design
+- 💼 Atualmente estou trabalhando em [F/A](https).
 - ✍️ Colaborando em vários projetos de desenvolvimento de jogos.
 
 
