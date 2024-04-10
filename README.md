@@ -2,7 +2,7 @@
 
 <h3> 👨🏻‍💻 |&nbsp;About me</h3>
 
-- 🎇 Desenvolvedor Full-Stack & UI/UX Design
+- 🎇 Desenvolvedor Web & UI/UX Design
 - 💼 Atualmente estou trabalhando na [AmbevTech](https://www.ambevtech.com.br).
 - ✍️ Colaborando em vários projetos de desenvolvimento de jogos.
 
